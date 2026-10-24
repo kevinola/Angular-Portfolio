@@ -1,0 +1,17 @@
+DEV PROFILE — Angular Portfolio
+Mini-PRD
+
+1. Who is it for?
+The portfolio is for recruiters, potential clients, fellow developer and people interested in my work as a developer.
+
+2. What problem does it solve?
+It provides one place where visitors/people of interest can learn about me, techincal background, experiences, skills, projects, as well as contact information.
+
+3. What is the smallest useful version?
+A responsive website with a navigation bar, introduction, About section, Skills section, Projects section, Contact form, and footer.
+
+4. What does success look like?
+All sections display correctly, projects load from an Angular service, project cards are rendered using "*ngFor", Angular data binding works, and the contact form displays a confirmation message when submitted.
+
+5. What is left out?
+A database, user authentication, a custom backend, and actual email delivery.
